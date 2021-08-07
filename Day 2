@@ -19,4 +19,4 @@ cout<<i<<" "<<j;
 return 0;
 }
 
-Output: 20
+Output: 2 0
